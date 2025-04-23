@@ -70,8 +70,8 @@ xor g1(sum,a,b);
 and g2(cout,a,b);
 endmodule
 ```
-Developed by: Gokul Nath R
-RegisterNumber:212224260077
+Developed by: Manoj R
+RegisterNumber:212224230152
 **RTL Schematic**
 
 ![436372450-fb89dd15-7575-4d28-a4c7-ab80db8a609c](https://github.com/user-attachments/assets/4f548ca3-bc42-4225-a3fb-fef30cff0fb7)
